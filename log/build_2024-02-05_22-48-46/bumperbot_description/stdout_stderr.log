@@ -1,0 +1,25 @@
+-- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ml_nd/bumperbot_ws/build/bumperbot_description
+-- Install configuration: ""
+-- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch
+-- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch/display.launch.py
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.STL
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.STL
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.STL
+-- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/base_link.STL
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/ml_nd/bumperbot_ws/src/bumperbot_description/models": No such file
+  or directory.
+
+[0m

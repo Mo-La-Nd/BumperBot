@@ -1,0 +1,7 @@
+[0.223s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples -- -j4 -l4
+[0.315s] [ 33%] Built target simple_publisher
+[0.332s] [35m[1mConsolidate compiler generated dependencies of target simple_parameter[0m
+[0.358s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_parameter.dir/src/simple_parameter.cpp.o[0m
+[3.466s] [ 66%] [32m[1mLinking CXX executable simple_parameter[0m
+[3.587s] [ 66%] Built target simple_parameter
+[3.613s] [100%] Built target simple_subscriber
