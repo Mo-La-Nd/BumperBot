@@ -3,6 +3,7 @@
 /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/simple_publisher.dir
 /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/simple_subscriber.dir
 /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/simple_parameter.dir
+/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/simple_turtlesim_kinematics.dir
 /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/test.dir
 /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/edit_cache.dir
 /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples/CMakeFiles/rebuild_cache.dir

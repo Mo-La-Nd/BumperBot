@@ -1,0 +1,37 @@
+[0.240s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples -- -j4 -l4
+[0.358s] [ 25%] Built target simple_publisher
+[0.377s] [ 50%] Built target simple_subscriber
+[0.400s] [ 62%] [32mBuilding CXX object CMakeFiles/simple_turtlesim_kinematics.dir/src/simple_turtlesim_kinematics.cpp.o[0m
+[0.410s] [ 87%] Built target simple_parameter
+[9.715s] [100%] [32m[1mLinking CXX executable simple_turtlesim_kinematics[0m
+[10.195s] [100%] Built target simple_turtlesim_kinematics
+[10.210s] Invoked command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples -- -j4 -l4
+[10.257s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples
+[10.266s] -- Install configuration: ""
+[10.266s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/include/include
+[10.266s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/include/include/bumperbot_cpp_examples
+[10.266s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/include/include/bumperbot_cpp_examples/simple_turtlesim_kinematics.hpp
+[10.266s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_publisher
+[10.268s] -- Set runtime path of "/home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_publisher" to ""
+[10.268s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_subscriber
+[10.274s] -- Set runtime path of "/home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_subscriber" to ""
+[10.274s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_parameter
+[10.275s] -- Set runtime path of "/home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_parameter" to ""
+[10.275s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_turtlesim_kinematics
+[10.280s] -- Set runtime path of "/home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_turtlesim_kinematics" to ""
+[10.281s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_examples
+[10.281s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_examples
+[10.281s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.sh
+[10.282s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.dsv
+[10.282s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.sh
+[10.282s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.dsv
+[10.282s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.bash
+[10.282s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.sh
+[10.282s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.zsh
+[10.282s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.dsv
+[10.283s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.dsv
+[10.283s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/packages/bumperbot_cpp_examples
+[10.283s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig.cmake
+[10.283s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig-version.cmake
+[10.283s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.xml
+[10.285s] Invoked command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples

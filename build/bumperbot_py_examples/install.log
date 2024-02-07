@@ -1,8 +1,10 @@
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_subscriber.py
+/home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_turtlesim_kinematics.py
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_publisher.py
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/simple_parameter.py
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__init__.py
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_subscriber.cpython-310.pyc
+/home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_turtlesim_kinematics.cpython-310.pyc
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_publisher.cpython-310.pyc
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/simple_parameter.cpython-310.pyc
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages/bumperbot_py_examples/__pycache__/__init__.cpython-310.pyc
@@ -18,3 +20,4 @@
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_parameter
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_publisher
 /home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_subscriber
+/home/ml_nd/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples/simple_turtlesim_kinematics
