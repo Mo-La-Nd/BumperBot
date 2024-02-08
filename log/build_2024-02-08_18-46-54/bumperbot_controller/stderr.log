@@ -1,0 +1,9 @@
+[31mCMake Error at CMakeLists.txt:23:
+  Parse error.  Expected a command name, got quoted argument with text
+  "add_executable(noisy_controller src/noisy_controller.cpp)
+
+  ament_target_dependencies(noisy_controller rclcpp geometry_msgs sensor_msgs
+  nav_msgs tf2_ros tf2)".
+
+[0m
+gmake: *** [Makefile:295: cmake_check_build_system] Error 1

@@ -1,0 +1,13 @@
+[0.115s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_controller -- -j4 -l4
+[0.147s] [31mCMake Error at CMakeLists.txt:23:
+[0.147s]   Parse error.  Expected a command name, got quoted argument with text
+[0.147s]   "add_executable(noisy_controller src/noisy_controller.cpp)
+[0.148s] 
+[0.148s]   ament_target_dependencies(noisy_controller rclcpp geometry_msgs sensor_msgs
+[0.148s]   nav_msgs tf2_ros tf2)".
+[0.148s] 
+[0.148s] [0m
+[0.148s] -- Configuring incomplete, errors occurred!
+[0.149s] See also "/home/ml_nd/bumperbot_ws/build/bumperbot_controller/CMakeFiles/CMakeOutput.log".
+[0.152s] gmake: *** [Makefile:295: cmake_check_build_system] Error 1
+[0.157s] Invoked command in '/home/ml_nd/bumperbot_ws/build/bumperbot_controller' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_controller -- -j4 -l4
