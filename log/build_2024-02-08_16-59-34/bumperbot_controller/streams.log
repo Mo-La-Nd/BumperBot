@@ -1,0 +1,56 @@
+[0.147s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_controller -- -j4 -l4
+[0.230s] [35m[1mConsolidate compiler generated dependencies of target simple_controller[0m
+[0.281s] [  0%] Built target ament_cmake_python_copy_bumperbot_controller
+[0.298s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_controller.dir/src/simple_controller.cpp.o[0m
+[1.030s] running egg_info
+[1.030s] writing bumperbot_controller.egg-info/PKG-INFO
+[1.031s] writing dependency_links to bumperbot_controller.egg-info/dependency_links.txt
+[1.031s] writing top-level names to bumperbot_controller.egg-info/top_level.txt
+[1.040s] reading manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[1.040s] writing manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[1.099s] [ 50%] Built target ament_cmake_python_build_bumperbot_controller_egg
+[15.228s] [100%] [32m[1mLinking CXX executable simple_controller[0m
+[15.997s] [100%] Built target simple_controller
+[16.007s] Invoked command in '/home/ml_nd/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_controller -- -j4 -l4
+[16.034s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ml_nd/bumperbot_ws/build/bumperbot_controller
+[16.042s] -- Install configuration: ""
+[16.042s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/pythonpath.sh
+[16.042s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/pythonpath.dsv
+[16.042s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info
+[16.042s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[16.042s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[16.043s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/top_level.txt
+[16.043s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[16.043s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller
+[16.043s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/simple_controller.py
+[16.043s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/__init__.py
+[16.074s] Listing '/home/ml_nd/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller'...
+[16.078s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/include/include
+[16.078s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/include/include/bumperbot_controller
+[16.078s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/include/include/bumperbot_controller/simple_controller.hpp
+[16.078s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/lib/bumperbot_controller/simple_controller
+[16.087s] -- Set runtime path of "/home/ml_nd/bumperbot_ws/install/bumperbot_controller/lib/bumperbot_controller/simple_controller" to ""
+[16.087s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch
+[16.087s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/controller.launch.py
+[16.087s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/joystick_teleop.launch.py
+[16.087s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config
+[16.087s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_teleop.yaml
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_config.yaml
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/bumperbot_controllers.yaml
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/lib/bumperbot_controller/simple_controller.py
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/ament_index/resource_index/package_run_dependencies/bumperbot_controller
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/ament_index/resource_index/parent_prefix_path/bumperbot_controller
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/ament_prefix_path.sh
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/ament_prefix_path.dsv
+[16.088s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/path.sh
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/path.dsv
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.bash
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.sh
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.zsh
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.dsv
+[16.089s] -- Installing: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/package.dsv
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/ament_index/resource_index/packages/bumperbot_controller
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/cmake/bumperbot_controllerConfig.cmake
+[16.089s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/cmake/bumperbot_controllerConfig-version.cmake
+[16.090s] -- Up-to-date: /home/ml_nd/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/package.xml
+[16.091s] Invoked command in '/home/ml_nd/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ml_nd/bumperbot_ws/build/bumperbot_controller
