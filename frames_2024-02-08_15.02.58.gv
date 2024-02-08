@@ -1,0 +1,8 @@
+digraph G {
+"odom" -> "bumperbot_base"[label=" Broadcaster: default_authority\nAverage rate: 10.195\nBuffer length: 5.1\nMost recent transform: 1707400978.94355\nOldest transform: 1707400973.843115\n"];
+"bumperbot_base" -> "bumperbot_top"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1707400978.9751763"[ shape=plaintext ] ;
+}->"odom";
+}

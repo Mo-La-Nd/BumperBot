@@ -1,0 +1,46 @@
+[0.188s] Invoking command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples': AMENT_PREFIX_PATH=/home/ml_nd/bumperbot_ws/install/bumperbot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/bumperbot_ws/install/bumperbot_msgs:/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples -- -j4 -l4
+[0.220s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.472s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.538s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.546s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.566s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.595s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.625s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.770s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.778s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.027s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.217s] -- Found turtlesim: 1.4.2 (/opt/ros/humble/share/turtlesim/cmake)
+[1.415s] -- Found bumperbot_msgs: 0.0.0 (/home/ml_nd/bumperbot_ws/install/bumperbot_msgs/share/bumperbot_msgs/cmake)
+[1.417s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.472s] -- Found tf2: 0.25.5 (/opt/ros/humble/share/tf2/cmake)
+[1.497s] -- Found tf2_ros: 0.25.5 (/opt/ros/humble/share/tf2_ros/cmake)
+[1.977s] -- Configuring done
+[1.983s] [31mCMake Error at CMakeLists.txt:32 (add_executable):
+[1.983s]   Cannot find source file:
+[1.983s] 
+[1.983s]     src/simple_service_server.cpp
+[1.983s] 
+[1.983s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[1.983s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[1.983s] 
+[1.983s] [0m
+[1.983s] [31mCMake Error at CMakeLists.txt:35 (add_executable):
+[1.983s]   Cannot find source file:
+[1.983s] 
+[1.984s]     src/simple_service_client.cpp
+[1.984s] 
+[1.984s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[1.984s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[1.984s] 
+[1.984s] [0m
+[1.985s] [31mCMake Error at CMakeLists.txt:32 (add_executable):
+[1.985s]   No SOURCES given to target: simple_service_server
+[1.985s] 
+[1.985s] [0m
+[1.985s] [31mCMake Error at CMakeLists.txt:35 (add_executable):
+[1.985s]   No SOURCES given to target: simple_service_client
+[1.985s] 
+[1.985s] [0m
+[1.985s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[1.993s] gmake: *** [Makefile:390: cmake_check_build_system] Error 1
+[1.996s] Invoked command in '/home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples' returned '2': AMENT_PREFIX_PATH=/home/ml_nd/bumperbot_ws/install/bumperbot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ml_nd/bumperbot_ws/install/bumperbot_msgs:/opt/ros/humble /usr/bin/cmake --build /home/ml_nd/bumperbot_ws/build/bumperbot_cpp_examples -- -j4 -l4
